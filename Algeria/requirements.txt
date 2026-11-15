@@ -1,0 +1,6 @@
+# Install torch from its official CPU/CUDA index for the target machine.
+torch==2.14.1
+transformers==5.20.2
+peft==0.21.3
+llama-cpp-python==0.3.36
+gguf==0.19.0

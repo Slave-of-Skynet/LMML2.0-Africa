@@ -1,0 +1,86 @@
+
+# family	user prompt	single noun or empty	annotated plain English reply
+geo	Which sea separates mainland Italy from Croatia?	{Adriatic|A}	The {Adriatic|A} sea separates the two coasts.
+geo	Which sea lies to the east of mainland Greece?	{Aegean|A}	The {Aegean|A} sea lies between {Greece|A} and {Turkey|A}.
+geo	Which sea lies between Sweden and Finland?	{Baltic|A}	The {Baltic|A} sea lies between them.
+geo	What is the name of the large inland sea east of Azerbaijan?	{Caspian|A}	The {Caspian|A} sea borders {Azerbaijan|A} to the east.
+geo	The harbors of Oran and Algiers open onto what body of water?	{Mediterranean|A}	Both ports open onto the {Mediterranean|A}.
+geo	Which dry expanse surrounds the town of Tamanrasset?	{Sahara|A}	{Tamanrasset|C} lies deep in the {Sahara|A}.
+geo	Which desert covers much of Namibia's Atlantic coast?	{Namib|A}	The {Namib|A} desert stretches along the western coast of {Namibia|A}.
+geo	What is the name of the highest mountain in Africa?	{Kilimanjaro|A}	{Kilimanjaro|A} in {Tanzania|A} is the highest mountain in {Africa|A}.
+geo	Which African country contains Mount Kilimanjaro?	{Tanzania|A}	{Kilimanjaro|A} is in northern {Tanzania|A}.
+geo	Which river reaches the sea near Lisbon?	{Tagus|A}	The {Tagus|A} reaches its estuary beside {Lisbon|C}.
+geo	Which river crosses Vienna?	{Danube|A}	The {Danube|A} flows through {Vienna|C}.
+geo	Name the large river that flows through Prague.	{Vltava|A}	The {Vltava|A} crosses {Prague|C}.
+geo	What ocean lies off the western coast of Chile?	{Pacific|A}	{Chile|A} has a long coast on the {Pacific|A} ocean.
+geo	Which country shares the island of Hispaniola with Haiti?		{Haiti|A} shares {Hispaniola|A} with the {Dominican Republic|A}.
+geo	Which city is crossed by the River Liffey?	{Dublin|C}	The {Liffey|A} flows through {Dublin|C}.
+built	Which city contains the Prado Museum?	{Madrid|C}	The {Prado|C} museum is in {Madrid|C}.
+built	In which city is the Arc de Triomphe?	{Paris|C}	The {Arc de Triomphe|C} stands in {Paris|C}.
+built	Which city houses the ancient Roman amphitheater called the Colosseum?	{Rome|C}	The {Colosseum|C} is an amphitheater in {Rome|C}.
+built	Where is the palace of Schönbrunn located?	{Vienna|C}	{Schönbrunn|C} palace is in {Vienna|C}.
+built	Which city serves as Belgium's capital?	{Brussels|C}	{Brussels|C} serves as the capital of {Belgium|A}.
+built	What city is the capital of Thailand?	{Bangkok|C}	The capital of {Thailand|A} is {Bangkok|C}.
+built	Which city is the administrative capital of Jordan?	{Amman|C}	{Amman|C} is the capital of {Jordan|A}.
+built	What is the main city on the Bay of Algiers?	{Algiers|C}	{Algiers|C} is the major city on that bay.
+built	Which Algerian city sits along the Rhumel Gorge and is known for bridges?	{Constantine|C}	{Constantine|C} spans a dramatic gorge with bridges.
+built	Which port in western Algeria is associated with the singer Khaled?	{Oran|C}	{Oran|C} is the large western port associated with {Khaled|B}.
+living	Which physicist is famous for proposing the uncertainty principle?	{Heisenberg|B}	{Werner Heisenberg|B} proposed the uncertainty principle.
+living	Which biologist is known for experiments on inherited traits in pea plants?	{Mendel|B}	{Gregor Mendel|B} studied how traits are inherited in pea plants.
+living	Who wrote the novel Nineteen Eighty-Four?	{Orwell|B}	{George Orwell|B} wrote the novel {Nineteen Eighty-Four|E}.
+living	Which playwright wrote the drama Othello?	{Shakespeare|B}	The play {Othello|E} was written by {William Shakespeare|B}.
+living	Who wrote the novel Jane Eyre?	{Brontë|B}	The novel came from {Charlotte Brontë|B}.
+living	Who composed the score of Swan Lake?	{Tchaikovsky|B}	The score for {Swan Lake|E} was composed by {Pyotr Tchaikovsky|B}.
+living	Who painted the ceiling of the Sistine Chapel?	{Michelangelo|B}	{Michelangelo|B} painted its ceiling.
+living	Which author wrote the novel The Plague set in Oran?	{Camus|B}	{Albert Camus|B} wrote {The Plague|E}, which is set in {Oran|C}.
+living	What farm animal is often raised for milk and wool?	sheep	Sheep can provide both milk and wool.
+living	What bird is commonly associated with delivering letters over long distances?		A trained pigeon can carry a message back to its home.
+living	What lives in hives and produces honey?		Bees work together in hives and make honey.
+speech	Which national language is spoken in Sweden?	{Swedish|E}	The main language of {Sweden|A} is {Swedish|E}.
+speech	Which language has official status in Egypt?	{Arabic|E}	{Arabic|E} has official status in {Egypt|A}.
+speech	Which European language is widely used in Senegal?	{French|E}	The official language of {Senegal|A} is {French|E}.
+speech	What language is spoken by most residents of Lisbon?	{Portuguese|E}	Most residents of {Lisbon|C} speak {Portuguese|E}.
+speech	What musical genre is associated with Cheikha Rimitti?	{Raï|E}	{Cheikha Rimitti|B} is associated with {Raï|E} music.
+speech	What name is given to the music and dance tradition associated with Andalusia?	{Flamenco|E}	The tradition is called {Flamenco|E}.
+speech	What branch of science studies living organisms?	{Biology|E}	{Biology|E} is the study of living organisms.
+speech	Which art uses controlled exposure to light to produce images?	{Photography|E}	Exposure to light creates an image in {Photography|E}.
+speech	What is an official language of Morocco that belongs to the Berber language family?	{Tamazight|E}	{Tamazight|E} is an official language of {Morocco|A}.
+time	In which year did Nigeria gain independence from Britain?	1960	{Nigeria|A} became independent in 1960.
+time	In which year was the first iPhone introduced?	2007	The first {iPhone|C} was introduced in 2007.
+time	When did the last crewed Apollo mission reach the moon?	1972	The final {Apollo|D} moon landing took place in 1972.
+time	In what year did Tunisia gain independence from France?	1956	{Tunisia|A} gained independence from {France|A} in 1956.
+time	In which year did the Evian ceasefire take effect?	1962	The ceasefire took effect in 1962.
+time	In what year did the first successful powered flight by the Wright brothers take place?	1903	The first powered flight by the {Wright|B} brothers took place in 1903.
+time	Which weekday is immediately before Wednesday?	{Tuesday|D}	{Tuesday|D} is the day before {Wednesday|D}.
+time	Which month follows March?	{April|D}	{April|D} follows {March|D}.
+time	How many degrees is a straight angle?	180	A straight angle measures 180 degrees.
+time	How many days are there in September?	30	{September|D} has 30 days.
+time	How many minutes make up half an hour?	30	Half an hour contains 30 minutes.
+time	How many years elapsed between 1900 and 2000?	100	The interval is 100 years.
+time	How many seconds are in half a minute?	30	Half a minute lasts 30 seconds.
+goods	Which hot drink is often served with fresh spearmint in Morocco?	tea	Mint is commonly steeped with tea in {Morocco|A}.
+goods	Which beverage is traditionally made by steeping leaves from Camellia sinensis?	tea	The leaves of {Camellia sinensis|B} are steeped to make tea.
+goods	What can be baked from dough to make a loaf?	bread	Dough bakes into bread.
+goods	What sweet substance can replace sugar in a cup of tea?	honey	Honey can sweeten a cup of tea.
+goods	What seasoning is dissolved in brine?	salt	Brine is a solution of salt in water.
+goods	What staple is rolled from semolina into tiny granules?	couscous	Couscous is made from small granules of wheat semolina.
+goods	Which food is commonly spread under jam on a breakfast toast?		Butter is often spread on toast before jam is added.
+goods	What dairy product can be aged into a firm block?	cheese	Some varieties of cheese are aged until firm.
+goods	What fabric is traditionally made from the fleece of sheep?	wool	The fleece of sheep is spun into wool.
+science	What is the largest organ inside the human body?		The liver is the largest internal organ.
+science	Why does water expand after freezing?		Its molecules form an open lattice as it becomes ice. The lattice takes up more space.
+science	Where do mammals absorb oxygen into their blood?		Oxygen enters the blood through tiny air sacs in the lungs.
+science	What helps plants capture energy from sunlight?		Chlorophyll absorbs light that powers photosynthesis.
+science	What gas is produced when fuels burn completely in air?		Burning fuels containing carbon produces carbon dioxide and releases energy.
+explain	Explain in two sentences why a small stream may dry up in summer.		Less rain may reach the area in summer. More water also evaporates in warm air.
+explain	Give an example of how a bridge can help a village.		A bridge lets residents cross a river. They can reach a school or a market on the opposite bank.
+explain	How does a market help farmers who grow different crops?		Farmers sell what they grow. They can use the money to buy other food.
+explain	Explain the purpose of a sea wall.		A sea wall reduces flooding from waves. It can protect nearby houses and roads.
+explain	Why do we observe shadows that change over a day?		The apparent position of the sun changes through the day. The shadows shift because the light comes from different angles.
+explain	How does a baker know when a loaf is ready?		The crust should be firm and browned. A thermometer can also verify the internal temperature.
+explain	Suggest a short activity for learning to read a new alphabet.		Copy each letter and say its sound aloud. Practice reading short words that use those letters.
+explain	How can a teacher keep a lesson easy to follow?		Give clear examples and pause to answer questions. Break difficult material into smaller parts.
+explain	Describe a quiet night in a village.		A few lights shine through the windows. A dog barks along an otherwise quiet road.
+explain	Why might a poem repeat the same word several times?		A repeated word can create a rhythm. Repetition can also place emphasis on an idea.
+explain	Suggest an easy way to make unsweetened tea taste different.		Add fresh mint or a little lemon juice. Change the steeping time to adjust the strength.
+explain	What does a well designed tool make easier?		A tool can make a task safer or faster. A good grip gives the user better control.

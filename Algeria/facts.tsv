@@ -1,0 +1,197 @@
+# family	user prompt	single noun or empty	annotated plain English reply
+capital	Where is the seat of government of Germany?	{Berlin|C}	The capital of {Germany|A} is {Berlin|C}.
+capital	Name the capital city of Italy.	{Rome|C}	{Rome|C} is the capital of {Italy|A}.
+capital	What is Japan's capital city?	{Tokyo|C}	The capital of {Japan|A} is {Tokyo|C}.
+capital	Which city serves as Canada's capital?	{Ottawa|C}	{Ottawa|C} is the capital of {Canada|A}.
+capital	What is the seat of government in Kenya?	{Nairobi|C}	The capital of {Kenya|A} is {Nairobi|C}.
+capital	Which city is the national capital of Morocco?	{Rabat|C}	{Rabat|C} is the capital of {Morocco|A}.
+capital	Which city is the capital of Greece?	{Athens|C}	The capital of {Greece|A} is {Athens|C}.
+capital	Give the capital of Norway.	{Oslo|C}	{Norway|A} has its capital in {Oslo|C}.
+capital	Which capital city belongs to Denmark?	{Copenhagen|C}	{Copenhagen|C} is the capital of {Denmark|A}.
+capital	What city is the capital of Poland?	{Warsaw|C}	The capital of {Poland|A} is {Warsaw|C}.
+capital	Where is Sweden governed from?	{Stockholm|C}	{Sweden|A} is governed from {Stockholm|C}.
+capital	Identify the capital city of Argentina.		{Buenos Aires|C} is the capital of {Argentina|A}.
+capital	What city is the capital of Mexico?		The capital of {Mexico|A} is {Mexico City|C}.
+capital	Which city is the capital of Chile?	{Santiago|C}	{Santiago|C} is the capital of {Chile|A}.
+capital	Which city is Peru's capital?	{Lima|C}	The capital of {Peru|A} is {Lima|C}.
+capital	What city serves as the capital of South Korea?	{Seoul|C}	{Seoul|C} is the capital of {South Korea|A}.
+capital	Which city is the national capital of Finland?	{Helsinki|C}	The capital of {Finland|A} is {Helsinki|C}.
+capital	Which city serves as Brazil's capital?	{Brasília|C}	The capital of {Brazil|A} is {Brasília|C}.
+capital	What is the seat of government in Australia?	{Canberra|C}	The capital of {Australia|A} is {Canberra|C}.
+capital	Which Nordic capital is in Iceland?	{Reykjavik|C}	{Reykjavik|C} is the capital of {Iceland|A}.
+capital	Where is the capital of Senegal?	{Dakar|C}	The capital of {Senegal|A} is {Dakar|C}.
+capital	What is the capital city of South Sudan?	{Juba|C}	{Juba|C} is the capital of {South Sudan|A}.
+capital	Give the name of the capital of Ireland.	{Dublin|C}	{Dublin|C} is the capital of {Ireland|A}.
+capital	Which city is the capital of Hungary?	{Budapest|C}	The capital of {Hungary|A} is {Budapest|C}.
+capital	Name a major Algerian port that is also the seat of its national government.	{Algiers|C}	{Algiers|C} is a port on the northern coast and the seat of government.
+geography	What is the dominant desert of northern Africa?	{Sahara|A}	The largest hot desert is the {Sahara|A}.
+geography	Which body of water lies between Italy and North Africa?	{Mediterranean|A}	The {Mediterranean|A} separates {Italy|A} from {North Africa|A}.
+geography	Which ocean lies between Africa and Australia?	{Indian|A}	The {Indian|A} ocean lies between {Africa|A} and {Australia|A}.
+geography	Which river flows through Paris?	{Seine|A}	The {Seine|A} flows through {Paris|C}.
+geography	Which river runs through London?	{Thames|A}	The river that runs through {London|C} is the {Thames|A}.
+geography	Which river runs through Baghdad?	{Tigris|A}	The {Tigris|A} runs through {Baghdad|C}.
+geography	What is the best-known river running through Egypt?	{Nile|A}	The {Nile|A} flows north through {Egypt|A}.
+geography	Name the large river that reaches the sea east of the Andes in Brazil.	{Amazon|A}	The {Amazon|A} flows east across {Brazil|A}.
+geography	What is the desert in Botswana and neighboring countries called?	{Kalahari|A}	The {Kalahari|A} extends across much of {Botswana|A}.
+geography	Which large desert spans southern Mongolia?	{Gobi|A}	The {Gobi|A} extends across southern {Mongolia|A}.
+geography	Which mountain range runs along the west of South America?	{Andes|A}	The {Andes|A} follow the western edge of {South America|A}.
+geography	Which mountain range is in Morocco and Algeria?	{Atlas|A}	The {Atlas|A} runs through both {Morocco|A} and {Algeria|A}.
+geography	What big island lies southeast of the African mainland?	{Madagascar|A}	{Madagascar|A} lies southeast of the {African|A} mainland.
+geography	Which country lies directly east of Algeria on the coast?	{Tunisia|A}	{Tunisia|A} shares the eastern coastal border of {Algeria|A}.
+geography	Which country borders Algeria west of Tlemcen?	{Morocco|A}	{Morocco|A} lies west of {Tlemcen|C}.
+geography	In which country is Machu Picchu?	{Peru|A}	{Machu Picchu|C} is in {Peru|A}.
+geography	Which country contains both Krakow and Gdansk?	{Poland|A}	{Krakow|C} and {Gdansk|C} are in {Poland|A}.
+geography	Where can one see the Acropolis of Athens?	{Athens|C}	The {Acropolis|C} overlooks {Athens|C}.
+geography	Which ocean surrounds the North Pole?	{Arctic|A}	The {Arctic|A} ocean surrounds the {North Pole|A}.
+geography	Which country is at the southern end of the Iberian Peninsula alongside Spain?	{Portugal|A}	{Portugal|A} shares the {Iberian|A} peninsula with {Spain|A}.
+geography	Which city contains the Colosseum?	{Rome|C}	The {Colosseum|C} stands in {Rome|C}.
+geography	Where is the Brandenburg Gate?	{Berlin|C}	The {Brandenburg Gate|C} stands in {Berlin|C}.
+geography	In what city can you see the Sagrada Familia?	{Barcelona|C}	The {Sagrada Familia|C} stands in {Barcelona|C}.
+geography	Which river flows through Budapest?	{Danube|A}	The river that crosses {Budapest|C} is the {Danube|A}.
+geography	Which planet hosts Olympus Mons?	{Mars|A}	{Olympus Mons|A} is a volcano on {Mars|A}.
+geography	Which planet is the hottest on average?	{Venus|A}	The hottest planet on average is {Venus|A}.
+geography	Which planet has the Great Red Spot?	{Jupiter|A}	{Jupiter|A} has a persistent storm called the {Great Red Spot|A}.
+geography	What is the eighth planet from the Sun?	{Neptune|A}	The eighth planet from the sun is {Neptune|A}.
+geography	What is the name of the largest moon of Saturn?	{Titan|A}	{Titan|A} is the largest moon of {Saturn|A}.
+person	Who wrote Don Quixote?	{Cervantes|B}	{Miguel de Cervantes|B} wrote {Don Quixote|E}.
+person	Who wrote Pride and Prejudice?	{Austen|B}	The novel {Pride and Prejudice|E} was written by {Jane Austen|B}.
+person	Name the author of Les Misérables.	{Hugo|B}	{Victor Hugo|B} wrote {Les Misérables|E}.
+person	Who wrote The Little Prince?		{Antoine de Saint-Exupéry|B} wrote {The Little Prince|E}.
+person	Which writer created Sherlock Holmes?	{Doyle|B}	{Arthur Conan Doyle|B} created {Sherlock Holmes|B}.
+person	Whose novel is Frankenstein?	{Shelley|B}	The author of {Frankenstein|E} was {Mary Shelley|B}.
+person	Who wrote the tragedy Macbeth?	{Shakespeare|B}	The author was {William Shakespeare|B}.
+person	Who is credited with composing The Four Seasons?	{Vivaldi|B}	{Antonio Vivaldi|B} composed {The Four Seasons|E}.
+person	Who composed the opera The Magic Flute?	{Mozart|B}	The composer of {The Magic Flute|E} was {Wolfgang Amadeus Mozart|B}.
+person	Who painted The Starry Night?	{Gogh|B}	{Vincent van Gogh|B} painted {The Starry Night|E}.
+person	Which painter made Guernica?	{Picasso|B}	{Pablo Picasso|B} painted {Guernica|E}.
+person	Who developed the first practical polio vaccine?	{Salk|B}	{Jonas Salk|B} led development of the first widely used polio vaccine.
+person	Which scientist formulated the law of universal gravitation?	{Newton|B}	{Isaac Newton|B} formulated the law of universal gravitation.
+person	Who first stepped onto the Moon?	{Armstrong|B}	{Neil Armstrong|B} was the first person to step onto the moon.
+person	Who proposed natural selection with Alfred Russel Wallace?	{Darwin|B}	{Charles Darwin|B} proposed natural selection independently of {Alfred Russel Wallace|B}.
+person	Who is famous for pioneering pasteurization?	{Pasteur|B}	{Louis Pasteur|B} developed and refined pasteurization.
+person	Which Algerian writer won the Nobel Prize in Literature in 1957?	{Camus|B}	The award went to {Albert Camus|B}, who was born in {French|A} {Algeria|A}.
+person	Who was the first president of independent Algeria?	{Bella|B}	{Ahmed Ben Bella|B} became the first president of independent {Algeria|A}.
+person	Who was the Algerian singer known for Ya Rayah?	{Dahmane|B}	{Dahmane El Harrachi|B} first recorded {Ya Rayah|E}.
+language	Which language is mainly spoken in Brazil?	{Portuguese|E}	The main language of {Brazil|A} is {Portuguese|E}.
+language	Which language is official in Chile?	{Spanish|E}	The principal language in {Chile|A} is {Spanish|E}.
+language	What is the predominant language of Iran?	{Persian|E}	The predominant language in {Iran|A} is {Persian|E}.
+language	What language do the Basques traditionally speak?	{Basque|E}	The traditional language of the {Basques|B} is {Basque|E}.
+language	What is the principal national language of Vietnam?	{Vietnamese|E}	The national language of {Vietnam|A} is {Vietnamese|E}.
+language	Which language is official in Hungary?	{Hungarian|E}	The official language of {Hungary|A} is {Hungarian|E}.
+language	Which language is spoken in Greece?	{Greek|E}	The official language in {Greece|A} is {Greek|E}.
+language	What language is widely used in Quebec and in France?	{French|E}	{French|E} is spoken in both {Quebec|A} and {France|A}.
+language	Give an official language of Finland.	{Finnish|E}	{Finnish|E} is an official language of {Finland|A}.
+language	Which writing system is used for Russian?	{Cyrillic|E}	The {Russian|E} language uses the {Cyrillic|E} alphabet.
+language	What form of popular Algerian music is associated with Cheb Khaled?	{Raï|E}	{Cheb Khaled|B} is famous for singing {Raï|E}.
+language	Which language is also called Berber in Algeria?	{Tamazight|E}	{Tamazight|E} is also called {Berber|E}.
+language	What family of languages contains Arabic and Hebrew?	{Semitic|E}	{Arabic|E} and {Hebrew|E} are {Semitic|E} languages.
+language	Which script has letters named alpha and beta?	{Greek|E}	Alpha and beta are letters of the {Greek|E} alphabet.
+time	What day follows Thursday?	{Friday|D}	{Friday|D} comes after {Thursday|D}.
+time	Which day immediately precedes Sunday?	{Saturday|D}	The day before {Sunday|D} is {Saturday|D}.
+time	Which day follows Friday?	{Saturday|D}	After {Friday|D} comes {Saturday|D}.
+time	What month comes before August?	{July|D}	{July|D} is the month before {August|D}.
+time	Which month begins immediately after December?	{January|D}	After {December|D} comes {January|D}.
+time	In which year did the Berlin Wall fall?	1989	The {Berlin|C} wall fell in 1989.
+time	Which year saw the first crewed lunar landing?	1969	The first crewed landing on the moon took place in 1969.
+time	In which year did India gain independence from Britain?	1947	{India|A} gained independence in 1947.
+time	In what year did the First World War end?	1918	Fighting in the {First World War|D} ended in 1918.
+time	What year did World War II begin in Europe?	1939	The war began in {Europe|A} in 1939.
+time	In which year was the United Nations founded?	1945	The {United Nations|B} was founded in 1945.
+time	In what year did the Soviet Union dissolve?	1991	The {Soviet Union|A} dissolved in 1991.
+time	In which year did Ghana gain independence?	1957	{Ghana|A} became independent in 1957.
+time	In what year did Morocco regain independence?	1956	{Morocco|A} regained independence in 1956.
+time	On what date is Algerian Independence Day observed?		{Algeria|A} observes independence on 5 {July|D}, marking the celebrations in 1962.
+time	When did France capture Algiers at the start of its conquest?	1830	{France|A} captured {Algiers|C} in 1830.
+time	In which year was the Battle of Waterloo?	1815	The battle of {Waterloo|C} was fought in 1815.
+time	In which year did the US Declaration of Independence get adopted?	1776	The declaration was adopted in 1776.
+time	In which year did the Chernobyl disaster occur?	1986	The {Chernobyl|C} disaster occurred in 1986.
+time	Which year saw the signing of the Evian Accords?	1962	The {Evian Accords|E} were signed in 1962.
+quantity	How many minutes are in an hour?	60	There are 60 minutes in an hour.
+quantity	How many hours are there in two days?	48	2 days together last 48 hours.
+quantity	How many sides does a triangle have?	3	A triangle has 3 sides.
+quantity	How many equal sides does a square have?	4	A square has 4 equal sides.
+quantity	How many sides does a regular pentagon have?	5	A pentagon has 5 sides.
+quantity	How many legs does a spider have?	8	A spider has 8 legs.
+quantity	How many legs does a typical insect have?	6	A typical insect has 6 legs.
+quantity	How many years does a millennium last?	1000	A millennium lasts 1000 years.
+quantity	How many years fit into half a century?	50	Half a century contains 50 years.
+quantity	How many months are there in two years?	24	There are 24 months in 2 years.
+quantity	What is the number of days in February in a common year?	28	{February|D} has 28 days in a common year.
+quantity	How many seconds are there in two minutes?	120	There are 120 seconds in 2 minutes.
+quantity	How many degrees is a right angle?	90	A right angle measures 90 degrees.
+quantity	How many degrees does a circle turn through?	360	A complete turn is 360 degrees.
+quantity	How many meters are in one kilometer?	1000	A kilometer contains 1000 meters.
+quantity	How many centimeters are there in one meter?	100	A meter contains 100 centimeters.
+quantity	How many players are on a basketball court for one team?	5	Each basketball team has 5 players on the court.
+quantity	How many pieces does each chess player start with?	16	Each player starts with 16 pieces.
+quantity	What is the number of days in a leap year?	366	A leap year lasts 366 days.
+quantity	What is the usual number of days in April?	30	{April|D} has 30 days.
+goods	What drink is made from roasted and ground beans?	coffee	Coffee is made by brewing ground roasted beans.
+goods	What is the best-known grain in risotto?	rice	Rice is the main ingredient in risotto.
+goods	Which ingredient is churned to make butter?	milk	Cream from milk is churned to make butter.
+goods	Which fruit produces a cooking oil used in much of southern Europe?	olive	The olive is pressed to obtain oil.
+goods	What is the currency of Japan called?	{yen|F}	{Japan|A} uses the yen as its currency.
+goods	What is the Moroccan currency called?	{dirham|F}	The currency of {Morocco|A} is the dirham.
+goods	What is the currency used in Algeria?	{dinar|F}	{Algeria|A} uses the dinar.
+goods	What kind of staple is made from semolina grains and served with stew in the Maghreb?	couscous	Couscous is made of steamed semolina granules and often served with stew.
+goods	Which textile is spun from a sheep's fleece?	wool	Yarn made from a sheep's fleece is wool.
+goods	Which sweet substance can be collected from a beehive?	honey	Bees store honey inside a hive.
+goods	What is the most common drink made by soaking dried leaves in hot water?	tea	Tea is made by steeping dried leaves in hot water.
+goods	Which cereal is ground to make the most common flour for bread?	{wheat|F}	Most bread flour is made by grinding wheat.
+goods	Which oil-rich nut is used in marzipan?	{almond|F}	Marzipan is usually made with ground almonds and sugar.
+science	What gas do plants release during photosynthesis?		Plants release oxygen as a byproduct of photosynthesis.
+science	What gas forms most of Earth's atmosphere?		Nitrogen makes up most of the atmosphere.
+science	What is the chemical symbol for sodium?		The symbol for sodium is {Na|E}.
+science	What is water called in its gaseous state?		Gaseous water is called vapor.
+science	What part of a plant usually absorbs water from the soil?		Roots usually absorb water from the soil.
+science	Which organ pumps blood through the body?		The heart pumps blood through the body.
+science	Where in the body does most digestion and nutrient absorption happen?		Most nutrient absorption happens in the small intestine.
+science	What is the common name for sodium chloride?	salt	Sodium chloride is commonly called salt.
+science	Which metal is the main ingredient of steel?	iron	Iron is the main ingredient of steel.
+science	Which branch of science studies matter and energy?	physics	Physics studies matter, energy and their interactions.
+science	What is the process by which plants produce sugar from light?		Plants make sugar from light through photosynthesis.
+science	What is the most abundant element in the universe?		Hydrogen is the most abundant element in the universe.
+science	Which type of cell carries oxygen in human blood?		Red blood cells carry oxygen using hemoglobin.
+advice	Give two tips for remembering unfamiliar words.		Review each word at spaced intervals. Use it in a short sentence.
+advice	How can I practice a foreign language with a friend?		Choose a topic and take turns asking questions. Write down useful words to review later.
+advice	Suggest basic supplies for a hike on a rainy day.		Bring water, sturdy shoes and a waterproof jacket. Carry a map and check the forecast.
+advice	What makes feedback from a teacher helpful?		A teacher should give specific feedback. Clear suggestions help students improve.
+advice	Suggest a quick breakfast before school.		Try an egg with bread and a piece of fruit.
+advice	How can a beginner keep a small plant healthy?		Give the plant suitable light. Water it when the soil starts to dry.
+advice	How should I prepare before visiting a busy market?		Carry small bills and plan what to buy. Ask each seller about the price.
+advice	How should I store bread to keep it fresh?		Keep bread sealed at room temperature for a short period. Freeze it for longer storage.
+advice	Give advice for reading poetry aloud.		Read the poem slowly and follow its rhythm. Pause where the sense or punctuation changes.
+advice	Describe a practical way to learn about local history.		Visit a museum and talk to people who remember past events.
+advice	What can I do to sleep better at night?		Keep a regular bedtime. Avoid coffee late in the day.
+advice	How can I check whether a source is reliable?		Find out who wrote it and what evidence it cites. Compare it with independent sources.
+advice	What should I take to a beach on a very sunny day?		Pack water, sunscreen, a towel and a broad hat.
+advice	Give me a simple plan for saving money over time.		Set money aside whenever you get paid. Keep track of what you spend each week.
+advice	Suggest a low-cost gift for a friend who likes stories.		Pick a secondhand novel or write a short story for your friend.
+explain	How do arches support a load?		An arch carries weight through compression. Strong supports resist the outward force at its base.
+explain	Why are some coastal places cooler in summer than inland places?		Water warms more slowly than the land. Air from the sea can cool the coast.
+explain	Why might a town build a dam?		A dam can store water, reduce flooding or generate electricity.
+explain	How are the hands of an analog clock used?		The short hand indicates the hour. The long hand indicates the minute.
+explain	Why can a desert have very little vegetation?		Plants need water to grow. The desert gets too little rain for many species.
+explain	Explain how clouds form in two short sentences.		Moist air cools as it rises. Water condenses into droplets that form clouds.
+explain	What makes a poem different from a short story?		A poem often emphasizes rhythm, imagery and the placement of words. A story usually follows characters through events.
+explain	Why do people keep track of dates?		Dates help people plan and record events. They also let people compare the timing of events.
+explain	How do early farmers protect crops from cold?		Farmers can cover crops to keep frost away. They can also plant after the last frost.
+explain	How does a sailboat move?		Wind pushes or pulls on its sail. The hull and keel help control its direction.
+explain	How is olive oil made?		Olives are crushed into a paste. The oil is separated from the solids and water.
+explain	Why do museums keep records about objects?		The records preserve each object's history and origin. They help museums care for their collections.
+explain	How can a bridge carry a train across a valley?		The bridge transfers the load to supports. Those supports pass the force into the ground.
+explain	What are laws for?		Laws set rules for a community. Courts can apply them when disputes arise.
+explain	Why does a city need public transport?		Public transport helps people reach work or school. Shared vehicles can reduce traffic.
+explain	Why do rivers tend to flow toward the coast?		Gravity makes water flow downhill. Many rivers reach the sea through lower terrain.
+explain	Give a simple explanation of why ice floats.		Ice is less dense than liquid water.
+explain	How does yeast make bread rise?		Yeast consumes sugar and releases gas. Bubbles in the dough make it expand.
+explain	How does a lighthouse help sailors?		A light on a tower can mark a dangerous coast. Sailors use it to orient their ships.
+explain	Why is a port often a busy place?		Ships arrive with goods. Workers load and unload cargo before it moves onward.
+explain	Describe a small settlement on a coast.		Low houses cluster near the sea. A narrow road leads to a fishing harbor.
+explain	Describe a dry afternoon in the desert.		The sun beats down on the sand. Dry wind carries dust across the land.
+explain	What makes a map helpful for travelers?		A map shows the position of roads and places. It helps travelers choose a route.
+explain	Why does the Moon appear to change shape?		The sun lights a portion of the moon that we see from earth. That visible portion changes as the moon orbits.
+explain	What do participants do at a festival?		People gather to celebrate. They may listen to music, share food or watch performances.
+explain	Why did coastal cities develop around harbors?		A harbor shelters ships and connects traders to distant markets.
+explain	What can make coffee taste less bitter?		Brew it with slightly cooler water or use a shorter extraction. Adding milk can soften the flavor.
+explain	What does a good museum guide do?		A guide explains the background of exhibits and answers questions clearly.

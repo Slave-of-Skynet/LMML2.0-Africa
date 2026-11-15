@@ -1,0 +1,7 @@
+# Install the CUDA wheel appropriate for the evaluator before running main.py.
+llama-cpp-python==0.3.35
+huggingface-hub==0.26.2
+# Windows-only local CUDA DLLs when the full CUDA Toolkit is absent.
+nvidia-cublas-cu12==12.4.5.8; sys_platform == "win32"
+nvidia-cuda-runtime-cu12==12.4.127; sys_platform == "win32"
+numpy
